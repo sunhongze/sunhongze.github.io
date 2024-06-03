@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+本人于2019年毕业于西安电子科技大学-人工智能学院（原属电子信息工程学院），获得智能科学与技术专业工学学士学位。后至电子科技大学-生命科学与技术学院攻读生物医学工程专业硕士学位，并于硕士二年级转攻博士学位，导师为郭大庆教授。本人所在课题组（脑器交互实验室）隶属于神经信息教育部重点实验室/四川省脑科学与类脑智能研究院/成都脑科学研究院临床医院，长期关注脑科学与类脑智能、脑数据分析以及大尺度全脑仿真等研究领域，并取得了一系列成果。目前，本人已发表学术论文5篇（一作两篇），并申请专利一项。
+ <a href='https://scholar.google.com/citations?user=RNa8D1sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 脉冲神经网络
-- 类脑智能
+- 类脑/脑启发智能
 - 计算机视觉
-- 智能机器人
+- 智能机器人算法
 
 
 <span class='anchor' id='-xl'></span>
