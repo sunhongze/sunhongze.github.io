@@ -36,7 +36,7 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCDS 2024</div><img src='images/TCDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCDS 2023</div><img src='images/TCDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo. A synapse-threshold synergistic learning approach for spiking neural networks. *IEEE Transactions on Cognitive and Developmental Systems*, 2024, 16(2): 544-558. (JCR:Q3; IF:5.000)  
@@ -45,7 +45,14 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+-	Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqing Guo. A Spatial–Channel–Temporal-Fused Attention for Spiking Neural Networks. *IEEE Transactions on Neural Networks and Learning Systems*, doi: 10.1109/TNNLS.2023.3278265. (JCR:Q1; IF:14.255)  
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10138927) [[代码]](https://github.com/GuoLab-UESTC/SCTFA-SNN)
+
+</div>
+</div>
 
 ### 专利
 ---
