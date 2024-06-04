@@ -65,7 +65,7 @@ redirect_from:
 
 
 <span class='anchor' id='-talks'></span>
-# 🏛️ Invited Talks
+# 💬 Invited Talks
 - *2024.01*, 神经计算青年论坛 (SYNCB 2024), 四川成都, 报告：<基于脑启发的多模异构目标跟踪模型研究>
 <span class='anchor' id='-gzsx'></span>
 
