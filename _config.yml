@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "孙宏泽"
-description              : "个人主页"
+description              : "Homepage"
 repository               : "sunhongze/sunhongze.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -21,42 +21,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "孙宏泽"
+  name             : "Hongze Sun(孙宏泽)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "电子科技大学"
-  location         : "成都"
-  employer         : #"Hefei General Machinery Research Institute"
-  pubmed           : 
+  bio              : "UESTC"
+  location         : "Chengdu"
   googlescholar    : "https://scholar.google.com/citations?user=RNa8D1sAAAAJ&hl=en"
   email            : "sunhongze@aliyun.com"
   researchgate     : "https://www.researchgate.net/profile/Hongze-Sun"
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "https://github.com/sunhongze"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.org/pid/322/3589.html"
   orcid            : "https://orcid.org/0000-0001-9658-209X"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
