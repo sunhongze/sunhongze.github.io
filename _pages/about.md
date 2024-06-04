@@ -56,15 +56,14 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**
 
-`Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.  *arXiv*, doi: 2405.17903. 
+`Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.
 
-[**Paper**](https://arxiv.org/pdf/2405.17903) [Code]<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[**Paper**](https://arxiv.org/pdf/2405.17903) Code<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
