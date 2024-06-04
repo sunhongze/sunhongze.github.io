@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "孙宏泽"
-description              : "Homepage"
+description              : "Ph.D student of BioMedical Engneering"
 repository               : "sunhongze/sunhongze.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hongze Sun\n孙宏泽"
+  name             : "Hongze Sun 孙宏泽"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D student in UESTC"
+  bio              : "UESTC 电子科技大学"
   location         : "Chengdu"
   googlescholar    : "https://scholar.google.com/citations?user=RNa8D1sAAAAJ&hl=en"
   email            : "sunhongze@aliyun.com"
