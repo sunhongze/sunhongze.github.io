@@ -28,9 +28,11 @@ redirect_from:
 
 <span class='anchor' id='-education'></span>
 # 🎓 Education
-- *2021.08 - 20*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> 电子科技大学 生命科学与技术学院, 四川成都, 博士研究生（在读）
-- *2019.08 - 2021.07*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> 电子科技大学 生命科学与技术学院, 四川成都, 硕士研究生
-- *2015.08 - 2019.07*, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/XDU-logo.png" width="20pt"></a> 西安电子科技大学 人工智能学院, 陕西西安 本科 
+- *2021.08 - 20*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University Of Electronic Science And Technology Of China
+ School of Life Science and Technology, Chengdu, Ph.D student
+- *2019.08 - 2021.07*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University Of Electronic Science And Technology Of China
+ School of Life Science and Technology, Chengdu, Master
+- *2015.08 - 2019.07*, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/XDU-logo.png" width="20pt"></a> Xidian University School of Artificial Intelligence, Xi'an，Bachelor 
 <span class='anchor' id='-lwzl'></span>
 
 
@@ -40,7 +42,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo. A synapse-threshold synergistic learning approach for spiking neural networks. *IEEE Transactions on Cognitive and Developmental Systems*, 2024, 16(2): 544-558. (JCR:Q3; IF:5.000)  
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [[代码]](https://github.com/sunhongze/STL-SNN)
+[[Link]](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [[Code]](https://github.com/sunhongze/STL-SNN)
 
 </div>
 </div>
@@ -49,7 +51,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqing Guo. A Spatial–Channel–Temporal-Fused Attention for Spiking Neural Networks. *IEEE Transactions on Neural Networks and Learning Systems*, doi: 10.1109/TNNLS.2023.3278265. (JCR:Q1; IF:14.255)  
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10138927) [[代码]](https://github.com/GuoLab-UESTC/SCTFA-SNN)
+[[Link]](https://ieeexplore.ieee.org/abstract/document/10138927) [[Code]](https://github.com/GuoLab-UESTC/SCTFA-SNN)
 
 </div>
 </div>
@@ -58,7 +60,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo. Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion. *arXiv*, doi: 2405.17903. 
-[[网页]](https://arxiv.org/pdf/2405.17903) [代码]
+[[Link]](https://arxiv.org/pdf/2405.17903) [Code]
 
 </div>
 </div>
@@ -66,7 +68,7 @@ redirect_from:
 
 <span class='anchor' id='-talks'></span>
 # 💬 Invited Talks
-- *2024.01*, 神经计算青年论坛 (SYNCB 2024), 四川成都, 报告：<基于脑启发的多模异构目标跟踪模型研究>
+- *2024.01*, Symposium on Neural Computation and Beyond (SYNCB 2024) [第三届神经计算青年论坛] (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking [基于脑启发的多模异构目标跟踪模型研究]
 <span class='anchor' id='-gzsx'></span>
 
 
