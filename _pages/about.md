@@ -27,15 +27,14 @@ redirect_from:
 
 
 <span class='anchor' id='-education'></span>
-
 # 🎓 Education
 - *2021.08 - 20, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> 电子科技大学 生命科学与技术学院, 四川成都, 博士研究生（在读）
 - *2019.08 - 2021.07*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> 电子科技大学 生命科学与技术学院, 四川成都, 硕士研究生
 - *2015.08 - 2019.07*, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/XDU-logo.png" width="20pt"></a> 西安电子科技大学 人工智能学院, 陕西西安 本科 
 <span class='anchor' id='-lwzl'></span>
 
-<span class='anchor' id='-publications'></span>
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCDS 2023</div><img src='images/TCDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,8 +63,13 @@ redirect_from:
 </div>
 </div>
 
-<span class='anchor' id='-talks'></span>
 
+<span class='anchor' id='-talks'></span>
 # 🏛️ Invited Talks
 - *2024.01*, 神经计算青年论坛 (SYNCB 2024), 四川成都, 报告：<基于脑启发的多模异构目标跟踪模型研究>
 <span class='anchor' id='-gzsx'></span>
+
+
+<span class='anchor' id='-services'></span>
+# 🏛️ Academic Services
+- *2024.01*, 神经计算青年论坛 (SYNCB 2024), 四川成都, 报告：<基于脑启发的多模异构目标跟踪模型研究>
