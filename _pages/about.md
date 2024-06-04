@@ -33,32 +33,34 @@ redirect_from:
 
 
 <span class='anchor' id='-publications'></span>
-# 📝 Publications
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCDS 2023</div><img src='images/TCDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
--	`Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo. A synapse-threshold synergistic learning approach for spiking neural networks. *IEEE Transactions on Cognitive and Developmental Systems*, 2024, 16(2): 544-558. (JCR:Q3; IF:5.000)  
-[[Link]](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [[Code]](https://github.com/sunhongze/STL-SNN)
-
+  
+**A synapse-threshold synergistic learning approach for spiking neural networks**
+`Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo.
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [[**Code**]](https://github.com/sunhongze/STL-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
--	Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqing Guo. A Spatial–Channel–Temporal-Fused Attention for Spiking Neural Networks. *IEEE Transactions on Neural Networks and Learning Systems*, doi: 10.1109/TNNLS.2023.3278265. (JCR:Q1; IF:14.255)  
-[[Link]](https://ieeexplore.ieee.org/abstract/document/10138927) [[Code]](https://github.com/GuoLab-UESTC/SCTFA-SNN)
-
+  
+**A Spatial–Channel–Temporal-Fused Attention for Spiking Neural Networks.**
+Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqing Guo.
+[**Paper**](https://arxiv.org/pdf/2405.17903) [**Code**](https://github.com/GuoLab-UESTC/SCTFA-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**
-
 `Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.
-
 [**Paper**](https://arxiv.org/pdf/2405.17903) Code<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
