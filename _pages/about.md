@@ -38,7 +38,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 **A synapse-threshold synergistic learning approach for spiking neural networks**
+
 `Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo.
+
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [[**Code**]](https://github.com/sunhongze/STL-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -49,7 +51,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 **A Spatial–Channel–Temporal-Fused Attention for Spiking Neural Networks.**
+
 Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqing Guo.
+
 [**Paper**](https://arxiv.org/pdf/2405.17903) [**Code**](https://github.com/GuoLab-UESTC/SCTFA-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -60,7 +64,9 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 <div class='paper-box-text' markdown="1">
   
 **Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**
+
 `Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.
+
 [**Paper**](https://arxiv.org/pdf/2405.17903) Code<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
