@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/zh-cn/#about-me"
+    url: "/#about-me"
 
   - title: "Education"
-    url: "/zh-cn/#-xl"
+    url: "/#education"
 
   - title: "Publications"
-    url: "/zh-cn/#-lwzl"
+    url: "/#publications"
 
   - title: "Talks"
-    url: "/zh-cn/#-ryjx"
+    url: "/#talks"
 
   - title: "Academic Services"
-    url: "/zh-cn/#-xshy"
+    url: "/#services"
