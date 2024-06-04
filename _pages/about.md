@@ -41,7 +41,7 @@ redirect_from:
 
 `Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo.
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [[**Code**]](https://github.com/sunhongze/STL-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [**Code**](https://github.com/sunhongze/STL-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
