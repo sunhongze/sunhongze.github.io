@@ -28,11 +28,11 @@ redirect_from:
 
 <span class='anchor' id='-education'></span>
 # 🎓 Education
-- *2021.08 - 20*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University Of Electronic Science And Technology Of China
+- *2021.08 - 20*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University of Electronic Science And Technology of China,
  School of Life Science and Technology, Chengdu, Ph.D student
-- *2019.08 - 2021.07*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University Of Electronic Science And Technology Of China
+- *2019.08 - 2021.07*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University of Electronic Science And Technology of China,
  School of Life Science and Technology, Chengdu, Master
-- *2015.08 - 2019.07*, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/XDU-logo.png" width="20pt"></a> Xidian University School of Artificial Intelligence, Xi'an，Bachelor 
+- *2015.08 - 2019.07*, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/XDU-logo.png" width="20pt"></a> Xidian University, School of Artificial Intelligence, Xi'an，Bachelor 
 <span class='anchor' id='-lwzl'></span>
 
 
@@ -58,19 +58,22 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**
 
--	`Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo. Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion. *arXiv*, doi: 2405.17903. 
-[[Link]](https://arxiv.org/pdf/2405.17903) [Code]
+`Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.  *arXiv*, doi: 2405.17903. 
 
+[**Paper**](https://arxiv.org/pdf/2405.17903) [Code]<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 </div>
 </div>
+
 
 
 <span class='anchor' id='-talks'></span>
 # 💬 Invited Talks
-- *2024.01*, Symposium on Neural Computation and Beyond (SYNCB 2024) [第三届神经计算青年论坛] (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking [基于脑启发的多模异构目标跟踪模型研究]
-<span class='anchor' id='-gzsx'></span>
-
+- *2024.01*, Symposium on Neural Computation and Beyond (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking.
+- *2024.01*, 第三届神经计算青年论坛, 四川･成都, 题目：基于脑启发的多模异构目标跟踪模型研究.
 
 <span class='anchor' id='-services'></span>
 # 🏛️ Academic Services
