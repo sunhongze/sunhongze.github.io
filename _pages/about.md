@@ -24,11 +24,11 @@ redirect_from:
 
 <span class='anchor' id='-education'></span>
 # 🎓 Education
-- *2021.08 - 20*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University of Electronic Science And Technology of China,
+- 2021.08 - -, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University of Electronic Science And Technology of China,
  School of Life Science and Technology, Chengdu, Ph.D student
-- *2019.08 - 2021.07*, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University of Electronic Science And Technology of China,
+- 2019.08 - 2021.07, <a href="https://www.uestc.edu.cn/"><img class="png" src="/images/UESTC-logo.png" width="20pt"></a> University of Electronic Science And Technology of China,
  School of Life Science and Technology, Chengdu, Master
-- *2015.08 - 2019.07*, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/XDU-logo.png" width="20pt"></a> Xidian University, School of Artificial Intelligence, Xi'an, Bachelor 
+- 2015.08 - 2019.07, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/XDU-logo.png" width="20pt"></a> Xidian University, School of Artificial Intelligence, Xi'an, Bachelor 
 <span class='anchor' id='-lwzl'></span>
 
 
@@ -75,9 +75,9 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 
 <span class='anchor' id='-talks'></span>
 # 💬 Invited Talks
-- *2024.01*, Symposium on Neural Computation and Beyond (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking.
-- *2024.01*, 第三届神经计算青年论坛, 四川･成都, 题目：基于脑启发的多模异构目标跟踪模型研究.
+- 2024.01, Symposium on Neural Computation and Beyond (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking.
+- 2024.01, 第三届神经计算青年论坛, 四川･成都, 题目：基于脑启发的多模异构目标跟踪模型研究.
 
 <span class='anchor' id='-services'></span>
 # 🏛️ Academic Services
-- *2024.01*, 
+- 2024.01, 
