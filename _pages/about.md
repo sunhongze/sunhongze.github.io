@@ -60,14 +60,14 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**
 
 `Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.
 
-[**Paper**](https://arxiv.org/pdf/2405.17903) Code<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004179) Code<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -76,6 +76,7 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 # 💬 Invited Talks
 - 2024.01, Symposium on Neural Computation and Beyond (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking.
 - 2024.01, 第三届神经计算青年论坛, 四川･成都, 题目：基于脑启发的多模异构目标跟踪模型研究.
+- 2024.08, Human brain and artificial intelligence (IJCAI2024 Workshop), JEJU-Korea, Poster：Bio-Information-Fused Spiking Neural Networks for Enhanced EEG-based Emotion Recognition.
 
 <span class='anchor' id='-services'></span>
 # 🏛️ Academic Services
