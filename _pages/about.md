@@ -83,10 +83,7 @@ Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 </div>
 </div>
 
-<style>
-  .paper-box-text {
-    margin-top: 20px; }
-</style>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cognitive Neurodynamics 2025</div><img src='images/CND.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
