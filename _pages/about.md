@@ -71,11 +71,40 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain-Apparatus Communication: A Journal of Bacomics 2025</div><img src='images/TRSNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**TR-SNN: a lightweight spiking neural network based on tensor ring decomposition**
+
+Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
+
+[**Paper**](https://www.tandfonline.com/doi/full/10.1080/27706710.2025.2472166) [**Code**](https://github.com/sunhongze/MMHT)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cognitive Neurodynamics 2025</div><img src='images/CND.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**BISNN: Bio-Information-Fused Spiking Neural Networks for Enhanced EEG-based Emotion Recognition**
+
+`Hongze Sun`, Shifeng Mao, Wuque Cai, Yan Cui, Duo Chen, Dezhong Yao, Daqing Guo.
+
+[**Paper**](https://www.tandfonline.com/doi/full/10.1080/27706710.2025.2472166) [**Code**](https://github.com/sunhongze/MMHT)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+
 <span class='anchor' id='-talks'></span>
 # 💬 Invited Talks
 - 2024.01, Symposium on Neural Computation and Beyond (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking.
 - 2024.01, 第三届神经计算青年论坛, 四川･成都, 题目：基于脑启发的多模异构目标跟踪模型研究.
 - 2024.08, Human brain and artificial intelligence (IJCAI2024 Workshop), JEJU-Korea, Poster：Bio-Information-Fused Spiking Neural Networks for Enhanced EEG-based Emotion Recognition.
+- 2024.12, 脑启社区首届类脑智能创新大赛-技术组创新奖(第一名), 浙江･杭州, 题目：基于空间-通道-时间融合注意力的脉冲神经网络项目.
+- 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
 # 🏛️ Academic Services
