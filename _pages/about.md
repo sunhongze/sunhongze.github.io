@@ -98,7 +98,7 @@ Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/OFE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/OFE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**
