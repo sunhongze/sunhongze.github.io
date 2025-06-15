@@ -100,12 +100,12 @@ Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/OFE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 **ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**
 
 `Hongze Sun`, Jun Wang, Wuque Cai, Duo Chen, Qianqian Liao, Jiayi He, Yan Cui, Dezhong Yao, Daqing Guo.
 
-[**Paper**]([https://www.tandfonline.com/doi/full/10.1080/27706710.2025.2472166](https://arxiv.org/pdf/2503.10195)) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://www.tandfonline.com/doi/full/10.1080/27706710.2025.2472166](https://arxiv.org/pdf/2503.10195) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
