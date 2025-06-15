@@ -98,8 +98,20 @@ Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/OFE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**
+
+`Hongze Sun`, Jun Wang, Wuque Cai, Duo Chen, Qianqian Liao, Jiayi He, Yan Cui, Dezhong Yao, Daqing Guo.
+
+[**Paper**]([https://www.tandfonline.com/doi/full/10.1080/27706710.2025.2472166](https://arxiv.org/pdf/2503.10195)) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
 <span class='anchor' id='-talks'></span>
-# 💬 Invited Talks
+# 💬 Invited Talks and Posters
 - 2024.01, Symposium on Neural Computation and Beyond (SYNCB 2024), Chengdu, Topic：Brain-Inspired Multimodal Hybrid Model for Reliable Object Tracking.
 - 2024.01, 第三届神经计算青年论坛, 四川･成都, 题目：基于脑启发的多模异构目标跟踪模型研究.
 - 2024.08, Human brain and artificial intelligence (IJCAI2024 Workshop), JEJU-Korea, Poster：Bio-Information-Fused Spiking Neural Networks for Enhanced EEG-based Emotion Recognition.
@@ -107,5 +119,3 @@ Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
-# 🏛️ Academic Services
-- 2024.01, 
