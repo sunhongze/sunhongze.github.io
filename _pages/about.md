@@ -38,7 +38,7 @@ I graduated from the School of Artificial Intelligence (formerly the School of E
 
 **A Brain-to-Population Graph Learning Framework for Diagnosing Brain Disorders**
 
-Qianqian Liao, Wuque Cai, Hongze Sun, Dongze Liu, Duo Chen, Dezhong Yao∗, Daqing Guo∗.
+Qianqian Liao, Wuque Cai, `Hongze Sun`, Dongze Liu, Duo Chen, Dezhong Yao∗, Daqing Guo.
 
 [**Paper**](https://arxiv.org/pdf/2506.16096) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -50,7 +50,7 @@ Qianqian Liao, Wuque Cai, Hongze Sun, Dongze Liu, Duo Chen, Dezhong Yao∗, Daqi
 
 **Manifold Embedding for Fast and Accurate 3D Reconstruction**
 
-Duo Chen, Zixin Tang, Ke Song, Xingyu Peng, Wuque Cai, `Hongze Sun`, Dezhong Yao, Daqing Guo2.
+Duo Chen, Zixin Tang, Ke Song, Xingyu Peng, Wuque Cai, `Hongze Sun`, Dezhong Yao, Daqing Guo.
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11086384) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -150,6 +150,7 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
+
 
 
 
