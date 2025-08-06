@@ -33,56 +33,16 @@ I graduated from the School of Artificial Intelligence (formerly the School of E
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCDS 2023</div><img src='images/TCDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/OFE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-**A synapse-threshold synergistic learning approach for spiking neural networks**
 
-`Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo.
+**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [**Code**](https://github.com/sunhongze/STL-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+`Hongze Sun`, Jun Wang, Wuque Cai, Duo Chen, Qianqian Liao, Jiayi He, Yan Cui, Dezhong Yao, Daqing Guo.
+
+[**Paper**](https://arxiv.org/pdf/2503.10195) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**A Spatial–Channel–Temporal-Fused Attention for Spiking Neural Networks.**
-
-Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqing Guo.
-
-[**Paper**](https://arxiv.org/pdf/2405.17903) [**Code**](https://github.com/GuoLab-UESTC/SCTFA-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**
-
-`Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.
-
-[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004179) [**Code**](https://github.com/sunhongze/MMHT)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain-Apparatus Communication: A Journal of Bacomics 2025</div><img src='images/TRSNN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**TR-SNN: a lightweight spiking neural network based on tensor ring decomposition**
-
-Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
-
-[**Paper**](https://www.tandfonline.com/doi/full/10.1080/27706710.2025.2472166) [**Code**](https://github.com/sunhongze/MMHT)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cognitive Neurodynamics 2025</div><img src='images/CND.png' alt="sym" width="100%"></div></div>
@@ -97,15 +57,50 @@ Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/OFE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Brain-Apparatus Communication: A Journal of Bacomics 2025</div><img src='images/TRSNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+**TR-SNN: a lightweight spiking neural network based on tensor ring decomposition**
 
-**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**
+Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 
-`Hongze Sun`, Jun Wang, Wuque Cai, Duo Chen, Qianqian Liao, Jiayi He, Yan Cui, Dezhong Yao, Daqing Guo.
+[**Paper**](https://www.tandfonline.com/doi/full/10.1080/27706710.2025.2472166) [**Code**](https://github.com/sunhongze/MMHT)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
-[**Paper**](https://arxiv.org/pdf/2503.10195) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='images/NN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion**
+
+`Hongze Sun`, Rui Liu, Wuque Cai, Jun Wang, Yue Wang, Huajin Tang, Yan Cui, Dezhong Yao, Daqing Guo.
+
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024004179) [**Code**](https://github.com/sunhongze/MMHT)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2023</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**A Spatial–Channel–Temporal-Fused Attention for Spiking Neural Networks.**
+
+Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqing Guo.
+
+[**Paper**](https://arxiv.org/pdf/2405.17903) [**Code**](https://github.com/GuoLab-UESTC/SCTFA-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCDS 2023</div><img src='images/TCDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**A synapse-threshold synergistic learning approach for spiking neural networks**
+
+`Hongze Sun`, Wuque Cai, Baoxin Yang, Yan Cui, Yang Xia, Dezhong Yao, Daqing Guo.
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10136703#citations) [**Code**](https://github.com/sunhongze/STL-SNN)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -119,3 +114,4 @@ Shifeng Mao, Baoxin Yang, `Hongze Sun`, Wuque Cai, Daqing Guo.
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
+
