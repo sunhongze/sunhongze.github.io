@@ -40,7 +40,7 @@ I earned my Bachelor’s degree in Intelligent Science and Technology in 2019 fr
 
 **A Brain-to-Population Graph Learning Framework for Diagnosing Brain Disorders**
 
-Qianqian Liao, Wuque Cai, `Hongze Sun`, Dongze Liu, Duo Chen, Dezhong Yao∗, Daqing Guo.
+Qianqian Liao, Wuque Cai, `Hongze Sun`, Dongze Liu, Duo Chen, Dezhong Yao, Daqing Guo.
 
 [**Paper**](https://arxiv.org/pdf/2506.16096) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -152,6 +152,7 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
+
 
 
 
