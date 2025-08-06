@@ -33,7 +33,7 @@ I graduated from the School of Artificial Intelligence (formerly the School of E
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/GNN' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/GNN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Brain-to-Population Graph Learning Framework for Diagnosing Brain Disorders**
@@ -45,7 +45,7 @@ Qianqian Liao, Wuque Cai, Hongze Sun, Dongze Liu, Duo Chen, Dezhong Yao∗, Daqi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/3d' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM 2025</div><img src='images/3d.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Manifold Embedding for Fast and Accurate 3D Reconstruction**
@@ -150,6 +150,7 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
+
 
 
 
