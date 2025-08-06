@@ -33,6 +33,18 @@ I graduated from the School of Artificial Intelligence (formerly the School of E
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/Prototype.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Spatiotemporal Prototype Learning for Spiking Neural Networks**
+
+Wuque Cai, `Hongze Sun`, Qianqian Liao, Jiayi He, Duo Chen, Dezhong Yao, Daqing Guo.
+
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11071971) [**Code**]( )<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/OFE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -114,4 +126,5 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
+
 
