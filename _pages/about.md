@@ -16,7 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I graduated from the School of Artificial Intelligence (formerly the School of Electronic Engineering) at Xidian University in 2019 with a Bachelor's degree in Intelligent Science and Technology. I then pursued a Master's degree in Biomedical Engineering at the School of Life Science and Technology at the University of Electronic Science and Technology of China (UESTC). In my second year of the Master's program, I transitioned to a Ph.D. track under the supervision of Professor Daqing Guo. My research group, the Brain-Machine Interaction Lab, is affiliated with the Key Laboratory of Neuroinformatics of the Ministry of Education, the Sichuan Brain Science and Brain-Inspired Intelligence Research Institute, and the Clinical Hospital of the Chengdu Brain Science Research Institute. Our group focuses on research areas such as brain science and brain-inspired intelligence, brain data analysis, and large-scale whole-brain simulation, achieving a series of accomplishments in these fields. My primary research involves the application of brain-inspired intelligence in tasks related to computer vision, affective computing, and time-series signal analysis, with a specific focus on neuromorphic computing, spiking neural networks, and multimodal fusion. To date, I have published 6 academic papers (4 as the first author) and applied for one patent. <a href='https://scholar.google.com/citations?user=RNa8D1sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+I earned my Bachelor’s degree in Intelligent Science and Technology in 2019 from the School of Artificial Intelligence (formerly the School of Electronic Engineering) at Xidian University. I subsequently pursued a Master’s degree in Biomedical Engineering at the School of Life Science and Technology, University of Electronic Science and Technology of China (UESTC). During the second year of my Master’s studies, I transitioned to the Ph.D. track under the supervision of Professor Daqing Guo. I am currently a member of the Brain-Machine Interaction Lab, which is affiliated with the Key Laboratory of Neuroinformatics of the Ministry of Education, the Sichuan Brain Science and Brain-Inspired Intelligence Research Institute, and the Clinical Hospital of the Chengdu Brain Science Research Institute. Our group focuses on cutting-edge research in brain science and brain-inspired intelligence, including brain data analysis and large-scale whole-brain simulation, and has made significant contributions in these areas. My research primarily explores the application of brain-inspired intelligence in computer vision, affective computing, and time-series signal analysis, with particular emphasis on neuromorphic computing, spiking neural networks, and multimodal fusion. To date, I have published 10+ academic papers (including 5 as the first author) and have filed 2 patent applications.
+
+ <a href='https://scholar.google.com/citations?user=RNa8D1sAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 **My research area** ： Spiking neural networks; Brain-inspired intellgence; Computer vision; Intelligent application.
 
@@ -150,6 +152,7 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
 
 <span class='anchor' id='-services'></span>
+
 
 
 
