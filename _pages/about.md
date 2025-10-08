@@ -35,6 +35,18 @@ I earned my Bachelor’s degree in Intelligent Science and Technology in 2019 fr
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PRUNE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Toward Efficient Spiking Transformers: Synapse Pruning Meets Synergistic Learning-Based Compensation**
+
+`Hongze Sun`, Wuque Cai, Duo Chen, Quan Tang, Shifeng Mao, Jiayi He, Zhenxing Wang, Yan Cui, Dezhong Yao, Daqing Guo
+
+[**Paper**](https://arxiv.org/pdf/2508.01992) [**Code**](https://github.com/GuoLab-UESTC/EfficientST)<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/miccai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -166,6 +178,7 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 - 2025.10, International Conference on Machine Intelligence and Nature-Inspired Computing (MIND 2025), Xiamen, Poster.
 
 <span class='anchor' id='-services'></span>
+
 
 
 
