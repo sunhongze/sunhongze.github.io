@@ -162,10 +162,11 @@ Wuque Cai, `Hongze Sun`, Rui Liu, Yan Cui, Jun Wang, Yang Xia, Dezhong Yao, Daqi
 - 2024.08, Human brain and artificial intelligence (IJCAI2024 Workshop), JEJU-Korea, Poster：Bio-Information-Fused Spiking Neural Networks for Enhanced EEG-based Emotion Recognition.
 - 2024.12, 脑启社区首届类脑智能创新大赛-技术组创新奖(第一名), 浙江･杭州, 题目：基于空间-通道-时间融合注意力的脉冲神经网络项目.
 - 2025.01, Symposium on Neural Computation and Beyond (SYNCB 2025), Shanghai, Poster.
-- 2025.09, The Medical Image Computing and Computer Assisted Intervention (MICCAI), DAEJEON-Korea, Poster.
+- 2025.09, The Medical Image Computing and Computer Assisted Intervention (MICCAI 2025), DAEJEON-Korea, Poster.
 - 2025.10, International Conference on Machine Intelligence and Nature-Inspired Computing (MIND 2025), Xiamen, Poster.
 
 <span class='anchor' id='-services'></span>
+
 
 
 
